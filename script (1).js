@@ -11,5 +11,4 @@ students.forEach((student, index) => {
     <td>${student.class_id}</td>
   `;
 
-  tbody.appendChild(row);
-});
+  tbody.appendChild(row);});
